@@ -1,0 +1,4 @@
+interface:
+  display_name: "Timetable PDF Links"
+  short_description: "Add class map links to timetable PDFs"
+  default_prompt: "Use $timetable-pdf-links to collect class map links from my browser timetable and create a linked Timetable.pdf."
